@@ -2,7 +2,7 @@
 
 ### Welcome to my product management portfolio! 
 
-I am a 2nd-year Computer Science undergraduate specializing in blockchain, with a passion for product management. This repository showcases my diverse projects blending technical skills with strategic product thinking.
+I am a Computer Science undergraduate specializing in blockchain, with a passion for product management. This repository showcases my diverse projects blending technical skills with strategic product thinking.
 
 #### About Me
 
